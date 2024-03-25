@@ -13,7 +13,7 @@ Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
 
 ## Evidence
 
-![](https://github.com/culturally/instagram-bypassed/blob/main/ev.jpg)
+![](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/blob/main/ev.jpg)
 
 ## What is SSL pinning?
 
