@@ -7,6 +7,7 @@ Get your private api endpoints now!
 - Current version which was bypassed: 323.0.3
 - You can now intercept all requests
 - iOS Only
+- Coming in few weeks!
 
 # Wanna learn how to bypass SSL pinning in apps?
 Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
