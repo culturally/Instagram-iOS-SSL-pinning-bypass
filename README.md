@@ -10,20 +10,23 @@ Get your private api endpoints now!
 
 ## Info
 
-- Current version which was bypassed: 323.0.3
+- Current version which was bypassed: 335.0.8
 - You can now intercept all requests
 - iOS Only
+- Tested on iOS 15.4.1
 - Any support is appreciated
  
 ## Installation
 1. Download the IPA file
 2. Sideload the file (I personally suggest [Sideloadly](https://sideloadly.io/) or [TrollStore](https://github.com/opa334/TrollStore))
-3. Use your favourite traffic interceptor
+3. Set up the proxy before starting the app (Was tested only with mitmproxy)
+4. Intercept
 
 ## Bypassed:
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
+| <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) | 335.0.8 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/335.0.8/Instagram335.0.8.ipa) |
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) | 323.0.3 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) |
 
 
