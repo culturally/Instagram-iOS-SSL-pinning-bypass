@@ -1,7 +1,9 @@
 # Instagram
 
 Instagram iOS with SSL pinning bypassed / Instagram with certificate pinning bypassed.
-Get your private api endpoints now!
+Get your private api endpoints now! 
+- DO NOT NEED JAILBREAK 
+- DO NOT NEED FRIDA
 
 ## Support Me
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** bc1qlj6685zpthj6kp5fe7cu47pp80xk0d3tzg650m   
