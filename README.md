@@ -24,6 +24,9 @@ Get your private api endpoints now!
 3. Set up the proxy before starting the app (Was tested only with mitmproxy)
 4. Intercept
 
+## Crashing Issue
+- Many people experienced crashing after login this is caused somehow by sideloading you have to sideload it using TrollStore to stop the crashing
+
 ## Bypassed:
 
 | Icon | Bundle ID | Version | File Type | Download |
