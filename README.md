@@ -12,7 +12,7 @@ Get your private api endpoints now!
 
 ## Info
 
-- Current version which was bypassed: 335.0.8
+- Current version which was bypassed: 337.0.2
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
@@ -31,7 +31,8 @@ Get your private api endpoints now!
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
-| <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) | 335.0.8 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/335.0.8/Instagram335.0.8.ipa) |
+| <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/337.0.2/Instagram337.0.2.ipa) | 337.0.2 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/337.0.2/Instagram337.0.2.ipa) |
+| <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/335.0.8/Instagram335.0.8.ipa) | 335.0.8 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/335.0.8/Instagram335.0.8.ipa) |
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) | 323.0.3 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) |
 
 
@@ -49,3 +50,10 @@ Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
 SSL pinning, also known as certificate pinning or public key pinning, is a security mechanism used in digital communication to enhance the security of a connection, particularly within the context of Secure Sockets Layer (SSL) or its successor, Transport Layer Security (TLS).
 
 When a client (such as a web browser or a mobile app) connects to a server over HTTPS, the server presents its SSL/TLS certificate to prove its identity. Normally, the client verifies the server's certificate by checking if it is signed by a trusted Certificate Authority (CA). However, SSL pinning adds an extra layer of security by requiring the client to validate the server's certificate against a known, pre-configured set of certificates or public keys, rather than solely relying on the CA's trust chain.
+
+## Disclaimer
+This project is for educational purposes only. It demonstrates bypassing SSL pinning in binaries, such as those used by Instagram/Meta, to help developers and researchers understand security vulnerabilities.
+
+There is no intent to harm, exploit, or encourage illegal activities. If Instagram/Meta or any other party has concerns, please contact me at detective@yin.sh, and I will address the issue or take down the project as requested.
+
+Use of this project is at your own risk; the creator is not responsible for any misuse.
