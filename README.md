@@ -54,6 +54,6 @@ When a client (such as a web browser or a mobile app) connects to a server over 
 ## Disclaimer
 This project is for educational purposes only. It demonstrates bypassing SSL pinning in binaries, such as those used by Instagram/Meta, to help developers and researchers understand security vulnerabilities.
 
-There is no intent to harm, exploit, or encourage illegal activities. If Instagram/Meta or any other party has concerns, please contact me at detective@yin.sh, and I will address the issue or take down the project as requested.
+There is no intent to harm, exploit, or encourage illegal activities. If Instagram/Meta or any other party has concerns, please contact me at 0day@yin.sh, and I will address the issue or take down the project as requested.
 
 Use of this project is at your own risk; the creator is not responsible for any misuse.
