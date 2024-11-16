@@ -6,7 +6,7 @@ Get your private api endpoints now!
 - DO NOT NEED FRIDA
 
 ## Support Me
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** bc1qlj6685zpthj6kp5fe7cu47pp80xk0d3tzg650m   
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** 1LightUfhnFKgZqcsfiKoxciQbPB384PqM   
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Solana_logo.png/252px-Solana_logo.png" width="20">**Solana:** 4a91vFCz8SjnqWiJpFuLWwWFpWdT9dZq13hG4o8icv2n   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/litecoin-logo-png-transparent.png" width="20">**Litecoin:** MFi28zedB78kaNiRpi9eBkFRTtGZNoxcWv   
 
