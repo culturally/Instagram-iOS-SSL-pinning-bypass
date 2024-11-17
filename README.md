@@ -40,8 +40,9 @@ Get your private api endpoints now!
 
 
 
-## Wanna learn how to bypass SSL pinning in apps or Do you have custom request?
+## Wanna learn how to bypass SSL pinning in apps or Do you have custom request for an App?
 Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
+Other apps available
 
 ## Evidence
 
