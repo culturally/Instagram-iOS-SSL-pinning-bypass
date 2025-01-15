@@ -12,7 +12,7 @@ Get your private api endpoints now!
 
 ## Info
 
-- Current version which was bypassed: 351.0.0
+- Current version which was bypassed: 361.0.0
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
@@ -31,6 +31,7 @@ Get your private api endpoints now!
 
 | Icon | Bundle ID | Version | File Type | Download |
 | ------------------ |:------:|:------:|:------:|:------:|
+| <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/361.0/Instagram361.0.ipa) | 361.0.0 | IPA | [Click here]([https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/361.0/Instagram361.0.ipa)) |
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/354.0.0/Instagram354.0.0.ipa) | 354.0.0 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/354.0.0/Instagram354.0.0.ipa) |
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/351.0.0/Instagram351.0.0.ipa) | 351.0.0 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/351.0.0/Instagram351.0.0.ipa) |
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/337.0.2/Instagram337.0.2.ipa) | 337.0.2 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/337.0.2/Instagram337.0.2.ipa) |
@@ -42,7 +43,7 @@ Get your private api endpoints now!
 
 ## Wanna learn how to bypass SSL pinning in apps or Do you have custom request for an App?
 Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
-Other apps available
+Other apps available + Course
 
 ## Evidence
 
