@@ -40,7 +40,10 @@ Get your private api endpoints now!
 | <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" width="20">| [com.burbn.instagram](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) | 323.0.3 | IPA | [Click here](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass/releases/download/323.0.3/Instagram323.0.3.ipa) |
 
 
+## Other apps
+- <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png" width="20"> [Facebook](https://github.com/culturally/Facebook-iOS-SSL-pinning-bypass/)
 
+- <img src="https://cdn-icons-png.flaticon.com/512/3670/3670166.png" width="20"> [Snapchat](https://github.com/culturally/Instagram-iOS-SSL-pinning-bypass)
 
 ## Wanna learn how to bypass SSL pinning in apps or Do you have custom request for an App?
 Message me on Telegram: [@undecryptable](https://t.me/undecryptable)
