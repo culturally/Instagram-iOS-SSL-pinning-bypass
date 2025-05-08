@@ -12,7 +12,7 @@ Get your private api endpoints now!
 
 ## Info
 
-- Current version which was bypassed: 367.0.0
+- Current version which was bypassed: 379.0.0 (unreleased)
 - You can now intercept all requests
 - iOS Only
 - Tested on iOS 15.4.1
