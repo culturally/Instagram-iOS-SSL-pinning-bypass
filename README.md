@@ -4,6 +4,10 @@ Instagram iOS with SSL pinning bypassed / Instagram with certificate pinning byp
 Get your private api endpoints now! 
 - DO NOT NEED JAILBREAK 
 - DO NOT NEED FRIDA
+  
+## SSL / Certificate Pinning
+
+You can read more about SSL Pinning here: https://yinsolutions.org/blogs/how-to-bypass-certificate-pinning-ig.html
 
 ## Support Me
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="20">**Bitcoin:** 1LightUfhnFKgZqcsfiKoxciQbPB384PqM   
